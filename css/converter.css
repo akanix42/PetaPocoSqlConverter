@@ -1,0 +1,16 @@
+#source-code {
+    display: block;
+    width: 1200px;
+    height: 400px;
+}
+
+.converter-controls {
+    padding: 10px;
+}
+
+#finished-code {
+    display: block;
+    width: 1200px;
+    border: 1px solid black;
+    min-height: 100px;
+}
